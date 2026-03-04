@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Honey Banana Milk Mix">
+      <data key="d0">Honey Banana Milk Mix</data>
+      <data key="d1">concept</data>
+      <data key="d2">A mix consisting of banana, milk, and honey.</data>
+      <data key="d3">chunk-b02a5c5cf231dd1038d6a4d0c153ea53</data>
+      <data key="d4">./recipes/Honey Banana Milk Mix.txt</data>
+      <data key="d5">1768570315</data>
+      <data key="d6" />
+    </node>
+    <node id="Banana">
+      <data key="d0">Banana</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">A fruit used in the mix.&lt;SEP&gt;Banana is a fruit used as an ingredient in the Peach Banana Syrup Bowl.</data>
+      <data key="d3">chunk-b02a5c5cf231dd1038d6a4d0c153ea53&lt;SEP&gt;chunk-1068d392485ddc16204063a5facb4823</data>
+      <data key="d4">./recipes/Honey Banana Milk Mix.txt&lt;SEP&gt;./recipes/Peach Banana Syrup Bowl.txt</data>
+      <data key="d5">1768570883</data>
+      <data key="d6" />
+    </node>
+    <node id="Milk">
+      <data key="d0">Milk</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">A dairy product used in the mix.</data>
+      <data key="d3">chunk-b02a5c5cf231dd1038d6a4d0c153ea53</data>
+      <data key="d4">./recipes/Honey Banana Milk Mix.txt</data>
+      <data key="d5">1768570315</data>
+      <data key="d6" />
+    </node>
+    <node id="Honey">
+      <data key="d0">Honey</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">A sweet substance used in the mix.&lt;SEP&gt;Honey is a sweet substance used in the preparation of the Apple Almond Honey Mix.</data>
+      <data key="d3">chunk-b02a5c5cf231dd1038d6a4d0c153ea53&lt;SEP&gt;chunk-60d05edf12bbcbcfe2ad1f45882bb879</data>
+      <data key="d4">./recipes/Honey Banana Milk Mix.txt&lt;SEP&gt;./recipes/Apple Almond Honey Mix.txt</data>
+      <data key="d5">1768570506</data>
+      <data key="d6" />
+    </node>
+    <node id="Chocolate">
+      <data key="d0">Chocolate</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Chocolate is an ingredient in the recipe for Chocolate Cream Sugar Whisk.</data>
+      <data key="d3">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d4">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d5">1768570350</data>
+      <data key="d6" />
+    </node>
+    <node id="Cream">
+      <data key="d0">Cream</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Cream is an ingredient used in the preparation of Chocolate Cream Sugar Whisk.</data>
+      <data key="d3">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d4">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d5">1768570350</data>
+      <data key="d6" />
+    </node>
+    <node id="Sugar">
+      <data key="d0">Sugar</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Sugar is an ingredient, specified as granulated, in Chocolate Cream Sugar Whisk.</data>
+      <data key="d3">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d4">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d5">1768570350</data>
+      <data key="d6" />
+    </node>
+    <node id="Whisk">
+      <data key="d0">Whisk</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Whisk is a kitchen tool used in whisking for the preparation.</data>
+      <data key="d3">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d4">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d5">1768570350</data>
+      <data key="d6" />
+    </node>
+    <node id="Chocolate Cream Sugar Whisk">
+      <data key="d0">Chocolate Cream Sugar Whisk</data>
+      <data key="d1">concept</data>
+      <data key="d2">Chocolate Cream Sugar Whisk refers to the specific mixture or recipe described in the text.</data>
+      <data key="d3">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d4">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d5">1768570350</data>
+      <data key="d6" />
+    </node>
+    <node id="Avocado Cucumber Dressing Bowl">
+      <data key="d0">Avocado Cucumber Dressing Bowl</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Avocado Cucumber Dressing Bowl is a dish that includes avocado, cucumber, dressing, and table salt as ingredients.</data>
+      <data key="d3">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d4">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d5">1768570465</data>
+      <data key="d6" />
+    </node>
+    <node id="Avocado">
+      <data key="d0">Avocado</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Avocado is a fruit used as an ingredient in the avocado cucumber dressing bowl.</data>
+      <data key="d3">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d4">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d5">1768570465</data>
+      <data key="d6" />
+    </node>
+    <node id="Cucumber">
+      <data key="d0">Cucumber</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Cucumber is a vegetable used as an ingredient in the avocado cucumber dressing bowl.</data>
+      <data key="d3">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d4">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d5">1768570465</data>
+      <data key="d6" />
+    </node>
+    <node id="Dressing">
+      <data key="d0">Dressing</data>
+      <data key="d1">concept</data>
+      <data key="d2">Dressing is a substance added to the avocado cucumber dressing bowl.</data>
+      <data key="d3">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d4">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d5">1768570465</data>
+      <data key="d6" />
+    </node>
+    <node id="Table Salt">
+      <data key="d0">Table Salt</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Table Salt is a seasoning included in the avocado cucumber dressing bowl.&lt;SEP&gt;Table Salt is an ingredient added to the mix.</data>
+      <data key="d3">chunk-897dd46c8ae11d3e397eeb097160329c&lt;SEP&gt;chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d4">./recipes/Avocado Cucumber Dressing Bowl.txt&lt;SEP&gt;./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d5">1768570670</data>
+      <data key="d6" />
+    </node>
+    <node id="Apple">
+      <data key="d0">Apple</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Apple is a fruit used in the preparation of the Apple Almond Honey Mix.</data>
+      <data key="d3">chunk-60d05edf12bbcbcfe2ad1f45882bb879</data>
+      <data key="d4">./recipes/Apple Almond Honey Mix.txt</data>
+      <data key="d5">1768570505</data>
+      <data key="d6" />
+    </node>
+    <node id="Almond">
+      <data key="d0">Almond</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Almond is a nut used in the preparation of the Apple Almond Honey Mix.</data>
+      <data key="d3">chunk-60d05edf12bbcbcfe2ad1f45882bb879</data>
+      <data key="d4">./recipes/Apple Almond Honey Mix.txt</data>
+      <data key="d5">1768570505</data>
+      <data key="d6" />
+    </node>
+    <node id="Apple Almond Honey Mix">
+      <data key="d0">Apple Almond Honey Mix</data>
+      <data key="d1">concept</data>
+      <data key="d2">Apple Almond Honey Mix is a mixture composed of apple, almond, and honey.</data>
+      <data key="d3">chunk-60d05edf12bbcbcfe2ad1f45882bb879</data>
+      <data key="d4">./recipes/Apple Almond Honey Mix.txt</data>
+      <data key="d5">1768570506</data>
+      <data key="d6" />
+    </node>
+    <node id="Tomato">
+      <data key="d0">Tomato</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Tomato is an ingredient in the Tomato Olive Vinegar Mix.</data>
+      <data key="d3">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d4">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d5">1768570669</data>
+      <data key="d6" />
+    </node>
+    <node id="Olive">
+      <data key="d0">Olive</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Olive is an ingredient that is sliced during preparation.</data>
+      <data key="d3">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d4">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d5">1768570669</data>
+      <data key="d6" />
+    </node>
+    <node id="Vinegar">
+      <data key="d0">Vinegar</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Vinegar is an ingredient added to the mix.</data>
+      <data key="d3">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d4">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d5">1768570669</data>
+      <data key="d6" />
+    </node>
+    <node id="Tomato Olive Vinegar Mix">
+      <data key="d0">Tomato Olive Vinegar Mix</data>
+      <data key="d1">concept</data>
+      <data key="d2">Tomato Olive Vinegar Mix is a mixture containing tomato, olive, vinegar, and table salt.</data>
+      <data key="d3">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d4">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d5">1768570670</data>
+      <data key="d6" />
+    </node>
+    <node id="Pineapple Coconut Smoothie">
+      <data key="d0">Pineapple Coconut Smoothie</data>
+      <data key="d1">concept</data>
+      <data key="d2">Pineapple Coconut Smoothie is a beverage made from pineapple and coconut.</data>
+      <data key="d3">chunk-0e9ade55d14f1d8ef9ef79ab0411438a</data>
+      <data key="d4">./recipes/Pineapple Coconut Smoothie.txt</data>
+      <data key="d5">1768570727</data>
+      <data key="d6" />
+    </node>
+    <node id="Pineapple">
+      <data key="d0">Pineapple</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Pineapple is a fruit used as an ingredient in the Pineapple Coconut Smoothie.</data>
+      <data key="d3">chunk-0e9ade55d14f1d8ef9ef79ab0411438a</data>
+      <data key="d4">./recipes/Pineapple Coconut Smoothie.txt</data>
+      <data key="d5">1768570727</data>
+      <data key="d6" />
+    </node>
+    <node id="Coconut">
+      <data key="d0">Coconut</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Coconut is a fruit used as an ingredient in the Pineapple Coconut Smoothie.</data>
+      <data key="d3">chunk-0e9ade55d14f1d8ef9ef79ab0411438a</data>
+      <data key="d4">./recipes/Pineapple Coconut Smoothie.txt</data>
+      <data key="d5">1768570727</data>
+      <data key="d6" />
+    </node>
+    <node id="Strawberry Citrus Juice Blend">
+      <data key="d0">Strawberry Citrus Juice Blend</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Strawberry Citrus Juice Blend is a juice blend containing strawberry, orange, lemon, and juice beverage.</data>
+      <data key="d3">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d4">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d5">1768570843</data>
+      <data key="d6" />
+    </node>
+    <node id="Strawberry">
+      <data key="d0">Strawberry</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Strawberry is a fruit used as an ingredient in the Strawberry Citrus Juice Blend.</data>
+      <data key="d3">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d4">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d5">1768570843</data>
+      <data key="d6" />
+    </node>
+    <node id="Orange">
+      <data key="d0">Orange</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Orange is a fruit used as an ingredient in the Strawberry Citrus Juice Blend.</data>
+      <data key="d3">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d4">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d5">1768570843</data>
+      <data key="d6" />
+    </node>
+    <node id="Lemon">
+      <data key="d0">Lemon</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Lemon is a fruit used as an ingredient in the Strawberry Citrus Juice Blend.</data>
+      <data key="d3">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d4">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d5">1768570843</data>
+      <data key="d6" />
+    </node>
+    <node id="Juice Beverage">
+      <data key="d0">Juice Beverage</data>
+      <data key="d1">content</data>
+      <data key="d2">Juice Beverage is the base component used in the Strawberry Citrus Juice Blend.</data>
+      <data key="d3">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d4">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d5">1768570843</data>
+      <data key="d6" />
+    </node>
+    <node id="Preparation Text">
+      <data key="d0">Preparation Text</data>
+      <data key="d1">method</data>
+      <data key="d2">Preparation Text describes the steps to make the Strawberry Citrus Juice Blend by slicing, halving, mixing, and adding ingredients.</data>
+      <data key="d3">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d4">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d5">1768570843</data>
+      <data key="d6" />
+    </node>
+    <node id="Peach Banana Syrup Bowl">
+      <data key="d0">Peach Banana Syrup Bowl</data>
+      <data key="d1">concept</data>
+      <data key="d2">Peach Banana Syrup Bowl is a dish composed of peach, banana, and syrup.</data>
+      <data key="d3">chunk-1068d392485ddc16204063a5facb4823</data>
+      <data key="d4">./recipes/Peach Banana Syrup Bowl.txt</data>
+      <data key="d5">1768570883</data>
+      <data key="d6" />
+    </node>
+    <node id="Peach">
+      <data key="d0">Peach</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Peach is a fruit used as an ingredient in the Peach Banana Syrup Bowl.</data>
+      <data key="d3">chunk-1068d392485ddc16204063a5facb4823</data>
+      <data key="d4">./recipes/Peach Banana Syrup Bowl.txt</data>
+      <data key="d5">1768570883</data>
+      <data key="d6" />
+    </node>
+    <node id="Syrup">
+      <data key="d0">Syrup</data>
+      <data key="d1">naturalobject</data>
+      <data key="d2">Syrup is a sweet liquid used as an ingredient in the Peach Banana Syrup Bowl.</data>
+      <data key="d3">chunk-1068d392485ddc16204063a5facb4823</data>
+      <data key="d4">./recipes/Peach Banana Syrup Bowl.txt</data>
+      <data key="d5">1768570883</data>
+      <data key="d6" />
+    </node>
+    <edge source="Honey Banana Milk Mix" target="Banana">
+      <data key="d7">1.0</data>
+      <data key="d8">Banana is an ingredient of the mix.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-b02a5c5cf231dd1038d6a4d0c153ea53</data>
+      <data key="d11">./recipes/Honey Banana Milk Mix.txt</data>
+      <data key="d12">1768570315</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Honey Banana Milk Mix" target="Milk">
+      <data key="d7">1.0</data>
+      <data key="d8">Milk is an ingredient of the mix.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-b02a5c5cf231dd1038d6a4d0c153ea53</data>
+      <data key="d11">./recipes/Honey Banana Milk Mix.txt</data>
+      <data key="d12">1768570315</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Honey Banana Milk Mix" target="Honey">
+      <data key="d7">1.0</data>
+      <data key="d8">Honey is an ingredient of the mix.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-b02a5c5cf231dd1038d6a4d0c153ea53</data>
+      <data key="d11">./recipes/Honey Banana Milk Mix.txt</data>
+      <data key="d12">1768570315</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Banana" target="Milk">
+      <data key="d7">1.0</data>
+      <data key="d8">Banana is added to Milk during the preparation.</data>
+      <data key="d9">addition,preparation</data>
+      <data key="d10">chunk-b02a5c5cf231dd1038d6a4d0c153ea53</data>
+      <data key="d11">./recipes/Honey Banana Milk Mix.txt</data>
+      <data key="d12">1768570315</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Banana" target="Peach Banana Syrup Bowl">
+      <data key="d7">1.0</data>
+      <data key="d8">The Peach Banana Syrup Bowl contains banana as an ingredient.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-1068d392485ddc16204063a5facb4823</data>
+      <data key="d11">./recipes/Peach Banana Syrup Bowl.txt</data>
+      <data key="d12">1768570883</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Honey" target="Apple Almond Honey Mix">
+      <data key="d7">1.0</data>
+      <data key="d8">Honey is a component of the Apple Almond Honey Mix.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-60d05edf12bbcbcfe2ad1f45882bb879</data>
+      <data key="d11">./recipes/Apple Almond Honey Mix.txt</data>
+      <data key="d12">1768570506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chocolate" target="Chocolate Cream Sugar Whisk">
+      <data key="d7">1.0</data>
+      <data key="d8">Chocolate is a component of Chocolate Cream Sugar Whisk.</data>
+      <data key="d9">ingredient,part_of</data>
+      <data key="d10">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d11">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d12">1768570350</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Cream" target="Chocolate Cream Sugar Whisk">
+      <data key="d7">1.0</data>
+      <data key="d8">Cream is an ingredient of Chocolate Cream Sugar Whisk.</data>
+      <data key="d9">ingredient,part_of</data>
+      <data key="d10">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d11">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d12">1768570350</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Sugar" target="Chocolate Cream Sugar Whisk">
+      <data key="d7">1.0</data>
+      <data key="d8">Sugar is an ingredient in Chocolate Cream Sugar Whisk.</data>
+      <data key="d9">ingredient,part_of</data>
+      <data key="d10">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d11">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d12">1768570350</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Whisk" target="Chocolate Cream Sugar Whisk">
+      <data key="d7">1.0</data>
+      <data key="d8">Whisk is used in the preparation of Chocolate Cream Sugar Whisk.</data>
+      <data key="d9">preparation,tool_use</data>
+      <data key="d10">chunk-04a64e243522060390e7c2684fe7e70b</data>
+      <data key="d11">./recipes/Chocolate Cream Sugar Whisk.txt</data>
+      <data key="d12">1768570351</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Avocado Cucumber Dressing Bowl" target="Avocado">
+      <data key="d7">1.0</data>
+      <data key="d8">The avocado cucumber dressing bowl contains avocado as an ingredient.</data>
+      <data key="d9">contains,ingredient</data>
+      <data key="d10">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d11">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d12">1768570465</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Avocado Cucumber Dressing Bowl" target="Cucumber">
+      <data key="d7">1.0</data>
+      <data key="d8">The avocado cucumber dressing bowl contains cucumber as an ingredient.</data>
+      <data key="d9">contains,ingredient</data>
+      <data key="d10">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d11">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d12">1768570466</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Avocado Cucumber Dressing Bowl" target="Dressing">
+      <data key="d7">1.0</data>
+      <data key="d8">The avocado cucumber dressing bowl contains dressing as an ingredient.</data>
+      <data key="d9">contains,ingredient</data>
+      <data key="d10">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d11">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d12">1768570466</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Avocado Cucumber Dressing Bowl" target="Table Salt">
+      <data key="d7">1.0</data>
+      <data key="d8">The avocado cucumber dressing bowl contains table salt as an ingredient.</data>
+      <data key="d9">contains,ingredient</data>
+      <data key="d10">chunk-897dd46c8ae11d3e397eeb097160329c</data>
+      <data key="d11">./recipes/Avocado Cucumber Dressing Bowl.txt</data>
+      <data key="d12">1768570466</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Table Salt" target="Tomato Olive Vinegar Mix">
+      <data key="d7">1.0</data>
+      <data key="d8">Table Salt is an ingredient of the Tomato Olive Vinegar Mix.</data>
+      <data key="d9">ingredient relationship</data>
+      <data key="d10">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d11">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d12">1768570670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Apple" target="Apple Almond Honey Mix">
+      <data key="d7">1.0</data>
+      <data key="d8">Apple is a component of the Apple Almond Honey Mix.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-60d05edf12bbcbcfe2ad1f45882bb879</data>
+      <data key="d11">./recipes/Apple Almond Honey Mix.txt</data>
+      <data key="d12">1768570506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Almond" target="Apple Almond Honey Mix">
+      <data key="d7">1.0</data>
+      <data key="d8">Almond is a component of the Apple Almond Honey Mix.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-60d05edf12bbcbcfe2ad1f45882bb879</data>
+      <data key="d11">./recipes/Apple Almond Honey Mix.txt</data>
+      <data key="d12">1768570506</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Tomato" target="Tomato Olive Vinegar Mix">
+      <data key="d7">1.0</data>
+      <data key="d8">Tomato is an ingredient of the Tomato Olive Vinegar Mix.</data>
+      <data key="d9">ingredient relationship</data>
+      <data key="d10">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d11">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d12">1768570670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Olive" target="Tomato Olive Vinegar Mix">
+      <data key="d7">1.0</data>
+      <data key="d8">Olive is an ingredient of the Tomato Olive Vinegar Mix.</data>
+      <data key="d9">ingredient relationship</data>
+      <data key="d10">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d11">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d12">1768570670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Vinegar" target="Tomato Olive Vinegar Mix">
+      <data key="d7">1.0</data>
+      <data key="d8">Vinegar is an ingredient of the Tomato Olive Vinegar Mix.</data>
+      <data key="d9">ingredient relationship</data>
+      <data key="d10">chunk-709789499597c0456123f91ddad32802</data>
+      <data key="d11">./recipes/Tomato Olive Vinegar Mix.txt</data>
+      <data key="d12">1768570670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Pineapple Coconut Smoothie" target="Pineapple">
+      <data key="d7">1.0</data>
+      <data key="d8">Pineapple is a key ingredient in the Pineapple Coconut Smoothie.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-0e9ade55d14f1d8ef9ef79ab0411438a</data>
+      <data key="d11">./recipes/Pineapple Coconut Smoothie.txt</data>
+      <data key="d12">1768570727</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Pineapple Coconut Smoothie" target="Coconut">
+      <data key="d7">1.0</data>
+      <data key="d8">Coconut is a key ingredient in the Pineapple Coconut Smoothie.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-0e9ade55d14f1d8ef9ef79ab0411438a</data>
+      <data key="d11">./recipes/Pineapple Coconut Smoothie.txt</data>
+      <data key="d12">1768570727</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Strawberry Citrus Juice Blend" target="Strawberry">
+      <data key="d7">1.0</data>
+      <data key="d8">Strawberry is an ingredient used to make the Strawberry Citrus Juice Blend.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570843</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Strawberry Citrus Juice Blend" target="Orange">
+      <data key="d7">1.0</data>
+      <data key="d8">Orange is an ingredient used to make the Strawberry Citrus Juice Blend.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570844</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Strawberry Citrus Juice Blend" target="Lemon">
+      <data key="d7">1.0</data>
+      <data key="d8">Lemon is an ingredient used to make the Strawberry Citrus Juice Blend.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570844</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Strawberry Citrus Juice Blend" target="Juice Beverage">
+      <data key="d7">2.0</data>
+      <data key="d8">Juice Beverage is a component used to make the Strawberry Citrus Juice Blend.&lt;SEP&gt;The Strawberry Citrus Juice Blend includes Juice Beverage as a base.</data>
+      <data key="d9">composition,content inclusion,ingredient,mixture</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570844</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Strawberry Citrus Juice Blend" target="Preparation Text">
+      <data key="d7">1.0</data>
+      <data key="d8">The Preparation Text provides the method for creating the Strawberry Citrus Juice Blend.</data>
+      <data key="d9">instructions,method</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570844</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Strawberry" target="Preparation Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Strawberry is sliced during the preparation of the Strawberry Citrus Juice Blend.</data>
+      <data key="d9">ingredient handling,preparation action</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570844</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Orange" target="Preparation Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Orange is halved during the preparation of the Strawberry Citrus Juice Blend.</data>
+      <data key="d9">ingredient handling,preparation action</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570844</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Lemon" target="Preparation Text">
+      <data key="d7">1.0</data>
+      <data key="d8">Lemon is halved during the preparation of the Strawberry Citrus Juice Blend.</data>
+      <data key="d9">ingredient handling,preparation action</data>
+      <data key="d10">chunk-a546a28cb7c44d6fb6a8bde368932d22</data>
+      <data key="d11">./recipes/Strawberry Citrus Juice Blend.txt</data>
+      <data key="d12">1768570844</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Peach Banana Syrup Bowl" target="Peach">
+      <data key="d7">1.0</data>
+      <data key="d8">The Peach Banana Syrup Bowl contains peach as an ingredient.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-1068d392485ddc16204063a5facb4823</data>
+      <data key="d11">./recipes/Peach Banana Syrup Bowl.txt</data>
+      <data key="d12">1768570883</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Peach Banana Syrup Bowl" target="Syrup">
+      <data key="d7">1.0</data>
+      <data key="d8">The Peach Banana Syrup Bowl contains syrup as an ingredient.</data>
+      <data key="d9">composition,ingredient</data>
+      <data key="d10">chunk-1068d392485ddc16204063a5facb4823</data>
+      <data key="d11">./recipes/Peach Banana Syrup Bowl.txt</data>
+      <data key="d12">1768570883</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

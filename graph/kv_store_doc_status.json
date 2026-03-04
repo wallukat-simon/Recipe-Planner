@@ -1,0 +1,218 @@
+{
+  "./recipes/Honey Banana Milk Mix.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-b02a5c5cf231dd1038d6a4d0c153ea53"
+    ],
+    "content_summary": "Honey Banana Milk Mix\n\nIngredients: banana, milk, honey\n\nPreparation text:\nSlice the banana, add it to the milk with honey, then mix until combined.",
+    "content_length": 148,
+    "created_at": "2026-01-16T13:28:51.033301+00:00",
+    "updated_at": "2026-01-16T13:31:56.126072+00:00",
+    "file_path": "./recipes/Honey Banana Milk Mix.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570131,
+      "processing_end_time": 1768570316
+    }
+  },
+  "./recipes/Chocolate Cream Sugar Whisk.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-04a64e243522060390e7c2684fe7e70b"
+    ],
+    "content_summary": "Chocolate Cream Sugar Whisk\n\nIngredients: chocolate, cream, sugar (granulated)\n\nPreparation text:\nAdd chocolate and sugar to the cream and whisk until smooth.",
+    "content_length": 158,
+    "created_at": "2026-01-16T13:28:51.033310+00:00",
+    "updated_at": "2026-01-16T13:32:31.114796+00:00",
+    "file_path": "./recipes/Chocolate Cream Sugar Whisk.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570131,
+      "processing_end_time": 1768570351
+    }
+  },
+  "./recipes/Avocado Cucumber Dressing Bowl.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-897dd46c8ae11d3e397eeb097160329c"
+    ],
+    "content_summary": "Avocado Cucumber Dressing Bowl\n\nIngredients: avocado, cucumber, dressing, table salt\n\nPreparation text:\nCube the avocado, slice the cucumber, add dressing and salt, then mix gently.",
+    "content_length": 181,
+    "created_at": "2026-01-16T13:28:51.033307+00:00",
+    "updated_at": "2026-01-16T13:34:26.334475+00:00",
+    "file_path": "./recipes/Avocado Cucumber Dressing Bowl.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570316,
+      "processing_end_time": 1768570466
+    }
+  },
+  "./recipes/Apple Almond Honey Mix.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-60d05edf12bbcbcfe2ad1f45882bb879"
+    ],
+    "content_summary": "Apple Almond Honey Mix\n\nIngredients: apple, almond, honey\n\nPreparation text:\nDice the apple and chop the almond. Add the apple, almond and honey to a bowl. Mix them until everything is evenly coated.",
+    "content_length": 199,
+    "created_at": "2026-01-16T13:28:51.033316+00:00",
+    "updated_at": "2026-01-16T13:35:06.624404+00:00",
+    "file_path": "./recipes/Apple Almond Honey Mix.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570351,
+      "processing_end_time": 1768570506
+    }
+  },
+  "./recipes/Tomato Olive Vinegar Mix.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-709789499597c0456123f91ddad32802"
+    ],
+    "content_summary": "Tomato Olive Vinegar Mix\n\nIngredients: tomato, olive, vinegar, table salt\n\nPreparation text:\nDice the tomato, slice the olive, add vinegar and salt, then mix well.",
+    "content_length": 163,
+    "created_at": "2026-01-16T13:28:51.033313+00:00",
+    "updated_at": "2026-01-16T13:37:50.657758+00:00",
+    "file_path": "./recipes/Tomato Olive Vinegar Mix.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570466,
+      "processing_end_time": 1768570670
+    }
+  },
+  "./recipes/Pineapple Coconut Smoothie.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0e9ade55d14f1d8ef9ef79ab0411438a"
+    ],
+    "content_summary": "Pineapple Coconut Smoothie\n\nIngredients: pineapple, coconut, smoothie\n\nPreparation text:\nCube the pineapple, chop the coconut, add both to the smoothie, and mix thoroughly.",
+    "content_length": 172,
+    "created_at": "2026-01-16T13:28:51.033296+00:00",
+    "updated_at": "2026-01-16T13:38:48.034564+00:00",
+    "file_path": "./recipes/Pineapple Coconut Smoothie.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570506,
+      "processing_end_time": 1768570728
+    }
+  },
+  "./recipes/Strawberry Citrus Juice Blend.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a546a28cb7c44d6fb6a8bde368932d22"
+    ],
+    "content_summary": "Strawberry Citrus Juice Blend\n\nIngredients: strawberry, orange, lemon, juice beverage\n\nPreparation text:\nSlice the strawberry, halve the orange and lemon, add everything to the juice beverage, and mix.",
+    "content_length": 201,
+    "created_at": "2026-01-16T13:28:51.033304+00:00",
+    "updated_at": "2026-01-16T13:40:44.657462+00:00",
+    "file_path": "./recipes/Strawberry Citrus Juice Blend.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570670,
+      "processing_end_time": 1768570844
+    }
+  },
+  "./recipes/Peach Banana Syrup Bowl.txt": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-1068d392485ddc16204063a5facb4823"
+    ],
+    "content_summary": "Peach Banana Syrup Bowl\n\nIngredients: peach, banana, syrup\n\nPreparation text:\nSlice the peach and banana, add syrup, and mix to combine.",
+    "content_length": 136,
+    "created_at": "2026-01-16T13:28:51.033279+00:00",
+    "updated_at": "2026-01-16T13:41:23.925544+00:00",
+    "file_path": "./recipes/Peach Banana Syrup Bowl.txt",
+    "track_id": "insert_20260116_142851_f7c0d8a7",
+    "metadata": {
+      "processing_start_time": 1768570728,
+      "processing_end_time": 1768570883
+    }
+  },
+  "./recipes\\Honey Banana Milk Mix.txt": {
+    "status": "pending",
+    "content_summary": "Honey Banana Milk Mix\n\nIngredients: banana, milk, honey\n\nPreparation text:\nSlice the banana, add it to the milk with honey, then mix until combined.",
+    "content_length": 148,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Honey Banana Milk Mix.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  },
+  "./recipes\\Avocado Cucumber Dressing Bowl.txt": {
+    "status": "pending",
+    "content_summary": "Avocado Cucumber Dressing Bowl\n\nIngredients: avocado, cucumber, dressing\n\nPreparation text:\nCube the avocado, slice the cucumber, add dressing, then mix gently.",
+    "content_length": 160,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Avocado Cucumber Dressing Bowl.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  },
+  "./recipes\\Tomato Olive Vinegar Mix.txt": {
+    "status": "pending",
+    "content_summary": "Tomato Olive Vinegar Mix\n\nIngredients: tomato, olive, vinegar, table salt\n\nPreparation text:\nDice the tomato, slice the olive, add vinegar and salt, then mix well.",
+    "content_length": 163,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Tomato Olive Vinegar Mix.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  },
+  "./recipes\\Apple Almond Honey Mix.txt": {
+    "status": "pending",
+    "content_summary": "Apple Almond Honey Mix\n\nIngredients: apple, almond, honey\n\nPreparation text:\nDice the apple and chop the almond. Add the apple, almond and honey to a bowl. Mix them until everything is evenly coated.",
+    "content_length": 199,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Apple Almond Honey Mix.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  },
+  "./recipes\\Pineapple Coconut Smoothie.txt": {
+    "status": "pending",
+    "content_summary": "Pineapple Coconut Smoothie\n\nIngredients: pineapple, coconut, smoothie\n\nPreparation text:\nCube the pineapple, chop the coconut, add both to the smoothie, and mix thoroughly.",
+    "content_length": 172,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Pineapple Coconut Smoothie.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  },
+  "./recipes\\Peach Banana Syrup Bowl.txt": {
+    "status": "pending",
+    "content_summary": "Peach Banana Syrup Bowl\n\nIngredients: peach, banana, syrup\n\nPreparation text:\nSlice the peach and banana, add syrup, and mix to combine.",
+    "content_length": 136,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Peach Banana Syrup Bowl.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  },
+  "./recipes\\Strawberry Citrus Juice Blend.txt": {
+    "status": "pending",
+    "content_summary": "Strawberry Citrus Juice Blend\n\nIngredients: strawberry, orange, lemon, juice beverage\n\nPreparation text:\nSlice the strawberry, halve the orange and lemon, add everything to the juice beverage, and mix.",
+    "content_length": 201,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Strawberry Citrus Juice Blend.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  },
+  "./recipes\\Chocolate Cream Sugar Whisk.txt": {
+    "status": "pending",
+    "content_summary": "Chocolate Cream Sugar Whisk\n\nIngredients: chocolate, cream, sugar (granulated)\n\nPreparation text:\nAdd chocolate and sugar to the cream and whisk until smooth.",
+    "content_length": 158,
+    "created_at": "2026-01-19T19:59:52.325104+00:00",
+    "updated_at": "2026-01-19T19:59:52.325104+00:00",
+    "file_path": "./recipes\\Chocolate Cream Sugar Whisk.txt",
+    "track_id": "insert_20260119_205952_6ca2b86a",
+    "chunks_list": []
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "./recipes/Honey Banana Milk Mix.txt": {
+    "content": "Honey Banana Milk Mix\n\nIngredients: banana, milk, honey\n\nPreparation text:\nSlice the banana, add it to the milk with honey, then mix until combined.",
+    "file_path": "./recipes/Honey Banana Milk Mix.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Honey Banana Milk Mix.txt"
+  },
+  "./recipes/Chocolate Cream Sugar Whisk.txt": {
+    "content": "Chocolate Cream Sugar Whisk\n\nIngredients: chocolate, cream, sugar (granulated)\n\nPreparation text:\nAdd chocolate and sugar to the cream and whisk until smooth.",
+    "file_path": "./recipes/Chocolate Cream Sugar Whisk.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Chocolate Cream Sugar Whisk.txt"
+  },
+  "./recipes/Avocado Cucumber Dressing Bowl.txt": {
+    "content": "Avocado Cucumber Dressing Bowl\n\nIngredients: avocado, cucumber, dressing, table salt\n\nPreparation text:\nCube the avocado, slice the cucumber, add dressing and salt, then mix gently.",
+    "file_path": "./recipes/Avocado Cucumber Dressing Bowl.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Avocado Cucumber Dressing Bowl.txt"
+  },
+  "./recipes/Apple Almond Honey Mix.txt": {
+    "content": "Apple Almond Honey Mix\n\nIngredients: apple, almond, honey\n\nPreparation text:\nDice the apple and chop the almond. Add the apple, almond and honey to a bowl. Mix them until everything is evenly coated.",
+    "file_path": "./recipes/Apple Almond Honey Mix.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Apple Almond Honey Mix.txt"
+  },
+  "./recipes/Tomato Olive Vinegar Mix.txt": {
+    "content": "Tomato Olive Vinegar Mix\n\nIngredients: tomato, olive, vinegar, table salt\n\nPreparation text:\nDice the tomato, slice the olive, add vinegar and salt, then mix well.",
+    "file_path": "./recipes/Tomato Olive Vinegar Mix.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Tomato Olive Vinegar Mix.txt"
+  },
+  "./recipes/Pineapple Coconut Smoothie.txt": {
+    "content": "Pineapple Coconut Smoothie\n\nIngredients: pineapple, coconut, smoothie\n\nPreparation text:\nCube the pineapple, chop the coconut, add both to the smoothie, and mix thoroughly.",
+    "file_path": "./recipes/Pineapple Coconut Smoothie.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Pineapple Coconut Smoothie.txt"
+  },
+  "./recipes/Strawberry Citrus Juice Blend.txt": {
+    "content": "Strawberry Citrus Juice Blend\n\nIngredients: strawberry, orange, lemon, juice beverage\n\nPreparation text:\nSlice the strawberry, halve the orange and lemon, add everything to the juice beverage, and mix.",
+    "file_path": "./recipes/Strawberry Citrus Juice Blend.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Strawberry Citrus Juice Blend.txt"
+  },
+  "./recipes/Peach Banana Syrup Bowl.txt": {
+    "content": "Peach Banana Syrup Bowl\n\nIngredients: peach, banana, syrup\n\nPreparation text:\nSlice the peach and banana, add syrup, and mix to combine.",
+    "file_path": "./recipes/Peach Banana Syrup Bowl.txt",
+    "create_time": 1768570131,
+    "update_time": 1768570131,
+    "_id": "./recipes/Peach Banana Syrup Bowl.txt"
+  },
+  "./recipes\\Honey Banana Milk Mix.txt": {
+    "content": "Honey Banana Milk Mix\n\nIngredients: banana, milk, honey\n\nPreparation text:\nSlice the banana, add it to the milk with honey, then mix until combined.",
+    "file_path": "./recipes\\Honey Banana Milk Mix.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Honey Banana Milk Mix.txt"
+  },
+  "./recipes\\Avocado Cucumber Dressing Bowl.txt": {
+    "content": "Avocado Cucumber Dressing Bowl\n\nIngredients: avocado, cucumber, dressing\n\nPreparation text:\nCube the avocado, slice the cucumber, add dressing, then mix gently.",
+    "file_path": "./recipes\\Avocado Cucumber Dressing Bowl.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Avocado Cucumber Dressing Bowl.txt"
+  },
+  "./recipes\\Tomato Olive Vinegar Mix.txt": {
+    "content": "Tomato Olive Vinegar Mix\n\nIngredients: tomato, olive, vinegar, table salt\n\nPreparation text:\nDice the tomato, slice the olive, add vinegar and salt, then mix well.",
+    "file_path": "./recipes\\Tomato Olive Vinegar Mix.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Tomato Olive Vinegar Mix.txt"
+  },
+  "./recipes\\Apple Almond Honey Mix.txt": {
+    "content": "Apple Almond Honey Mix\n\nIngredients: apple, almond, honey\n\nPreparation text:\nDice the apple and chop the almond. Add the apple, almond and honey to a bowl. Mix them until everything is evenly coated.",
+    "file_path": "./recipes\\Apple Almond Honey Mix.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Apple Almond Honey Mix.txt"
+  },
+  "./recipes\\Pineapple Coconut Smoothie.txt": {
+    "content": "Pineapple Coconut Smoothie\n\nIngredients: pineapple, coconut, smoothie\n\nPreparation text:\nCube the pineapple, chop the coconut, add both to the smoothie, and mix thoroughly.",
+    "file_path": "./recipes\\Pineapple Coconut Smoothie.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Pineapple Coconut Smoothie.txt"
+  },
+  "./recipes\\Peach Banana Syrup Bowl.txt": {
+    "content": "Peach Banana Syrup Bowl\n\nIngredients: peach, banana, syrup\n\nPreparation text:\nSlice the peach and banana, add syrup, and mix to combine.",
+    "file_path": "./recipes\\Peach Banana Syrup Bowl.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Peach Banana Syrup Bowl.txt"
+  },
+  "./recipes\\Strawberry Citrus Juice Blend.txt": {
+    "content": "Strawberry Citrus Juice Blend\n\nIngredients: strawberry, orange, lemon, juice beverage\n\nPreparation text:\nSlice the strawberry, halve the orange and lemon, add everything to the juice beverage, and mix.",
+    "file_path": "./recipes\\Strawberry Citrus Juice Blend.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Strawberry Citrus Juice Blend.txt"
+  },
+  "./recipes\\Chocolate Cream Sugar Whisk.txt": {
+    "content": "Chocolate Cream Sugar Whisk\n\nIngredients: chocolate, cream, sugar (granulated)\n\nPreparation text:\nAdd chocolate and sugar to the cream and whisk until smooth.",
+    "file_path": "./recipes\\Chocolate Cream Sugar Whisk.txt",
+    "create_time": 1768852792,
+    "update_time": 1768852792,
+    "_id": "./recipes\\Chocolate Cream Sugar Whisk.txt"
+  }
+}

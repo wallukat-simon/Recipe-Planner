@@ -1,0 +1,194 @@
+{
+  "./recipes/Honey Banana Milk Mix.txt": {
+    "relation_pairs": [
+      [
+        "Honey",
+        "Honey Banana Milk Mix"
+      ],
+      [
+        "Honey Banana Milk Mix",
+        "Milk"
+      ],
+      [
+        "Banana",
+        "Honey Banana Milk Mix"
+      ],
+      [
+        "Banana",
+        "Milk"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768570316,
+    "update_time": 1768570316,
+    "_id": "./recipes/Honey Banana Milk Mix.txt"
+  },
+  "./recipes/Chocolate Cream Sugar Whisk.txt": {
+    "relation_pairs": [
+      [
+        "Chocolate",
+        "Chocolate Cream Sugar Whisk"
+      ],
+      [
+        "Chocolate Cream Sugar Whisk",
+        "Cream"
+      ],
+      [
+        "Chocolate Cream Sugar Whisk",
+        "Sugar"
+      ],
+      [
+        "Chocolate Cream Sugar Whisk",
+        "Whisk"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768570351,
+    "update_time": 1768570351,
+    "_id": "./recipes/Chocolate Cream Sugar Whisk.txt"
+  },
+  "./recipes/Avocado Cucumber Dressing Bowl.txt": {
+    "relation_pairs": [
+      [
+        "Avocado",
+        "Avocado Cucumber Dressing Bowl"
+      ],
+      [
+        "Avocado Cucumber Dressing Bowl",
+        "Dressing"
+      ],
+      [
+        "Avocado Cucumber Dressing Bowl",
+        "Cucumber"
+      ],
+      [
+        "Avocado Cucumber Dressing Bowl",
+        "Table Salt"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768570466,
+    "update_time": 1768570466,
+    "_id": "./recipes/Avocado Cucumber Dressing Bowl.txt"
+  },
+  "./recipes/Apple Almond Honey Mix.txt": {
+    "relation_pairs": [
+      [
+        "Apple",
+        "Apple Almond Honey Mix"
+      ],
+      [
+        "Apple Almond Honey Mix",
+        "Honey"
+      ],
+      [
+        "Almond",
+        "Apple Almond Honey Mix"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768570506,
+    "update_time": 1768570506,
+    "_id": "./recipes/Apple Almond Honey Mix.txt"
+  },
+  "./recipes/Tomato Olive Vinegar Mix.txt": {
+    "relation_pairs": [
+      [
+        "Olive",
+        "Tomato Olive Vinegar Mix"
+      ],
+      [
+        "Tomato Olive Vinegar Mix",
+        "Vinegar"
+      ],
+      [
+        "Tomato",
+        "Tomato Olive Vinegar Mix"
+      ],
+      [
+        "Table Salt",
+        "Tomato Olive Vinegar Mix"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1768570670,
+    "update_time": 1768570670,
+    "_id": "./recipes/Tomato Olive Vinegar Mix.txt"
+  },
+  "./recipes/Pineapple Coconut Smoothie.txt": {
+    "relation_pairs": [
+      [
+        "Coconut",
+        "Pineapple Coconut Smoothie"
+      ],
+      [
+        "Pineapple",
+        "Pineapple Coconut Smoothie"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1768570728,
+    "update_time": 1768570728,
+    "_id": "./recipes/Pineapple Coconut Smoothie.txt"
+  },
+  "./recipes/Strawberry Citrus Juice Blend.txt": {
+    "relation_pairs": [
+      [
+        "Preparation Text",
+        "Strawberry"
+      ],
+      [
+        "Preparation Text",
+        "Strawberry Citrus Juice Blend"
+      ],
+      [
+        "Orange",
+        "Strawberry Citrus Juice Blend"
+      ],
+      [
+        "Orange",
+        "Preparation Text"
+      ],
+      [
+        "Strawberry",
+        "Strawberry Citrus Juice Blend"
+      ],
+      [
+        "Lemon",
+        "Strawberry Citrus Juice Blend"
+      ],
+      [
+        "Lemon",
+        "Preparation Text"
+      ],
+      [
+        "Juice Beverage",
+        "Strawberry Citrus Juice Blend"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1768570844,
+    "update_time": 1768570844,
+    "_id": "./recipes/Strawberry Citrus Juice Blend.txt"
+  },
+  "./recipes/Peach Banana Syrup Bowl.txt": {
+    "relation_pairs": [
+      [
+        "Peach Banana Syrup Bowl",
+        "Syrup"
+      ],
+      [
+        "Banana",
+        "Peach Banana Syrup Bowl"
+      ],
+      [
+        "Peach",
+        "Peach Banana Syrup Bowl"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1768570883,
+    "update_time": 1768570883,
+    "_id": "./recipes/Peach Banana Syrup Bowl.txt"
+  }
+}

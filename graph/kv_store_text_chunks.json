@@ -1,0 +1,114 @@
+{
+  "chunk-b02a5c5cf231dd1038d6a4d0c153ea53": {
+    "tokens": 33,
+    "content": "Honey Banana Milk Mix\n\nIngredients: banana, milk, honey\n\nPreparation text:\nSlice the banana, add it to the milk with honey, then mix until combined.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Honey Banana Milk Mix.txt",
+    "file_path": "./recipes/Honey Banana Milk Mix.txt",
+    "llm_cache_list": [
+      "default:extract:63f4164bec91cbc8128cba1cb7de21ce",
+      "default:extract:3fe0667c3ec2d0e1d4f6a95f83bd9f88"
+    ],
+    "create_time": 1768570131,
+    "update_time": 1768570315,
+    "_id": "chunk-b02a5c5cf231dd1038d6a4d0c153ea53"
+  },
+  "chunk-04a64e243522060390e7c2684fe7e70b": {
+    "tokens": 32,
+    "content": "Chocolate Cream Sugar Whisk\n\nIngredients: chocolate, cream, sugar (granulated)\n\nPreparation text:\nAdd chocolate and sugar to the cream and whisk until smooth.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Chocolate Cream Sugar Whisk.txt",
+    "file_path": "./recipes/Chocolate Cream Sugar Whisk.txt",
+    "llm_cache_list": [
+      "default:extract:4376e1c53944332205a4c8e7c795027a",
+      "default:extract:5e173d65dbb35ccb673570981783c0d7"
+    ],
+    "create_time": 1768570131,
+    "update_time": 1768570350,
+    "_id": "chunk-04a64e243522060390e7c2684fe7e70b"
+  },
+  "chunk-897dd46c8ae11d3e397eeb097160329c": {
+    "tokens": 38,
+    "content": "Avocado Cucumber Dressing Bowl\n\nIngredients: avocado, cucumber, dressing, table salt\n\nPreparation text:\nCube the avocado, slice the cucumber, add dressing and salt, then mix gently.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Avocado Cucumber Dressing Bowl.txt",
+    "file_path": "./recipes/Avocado Cucumber Dressing Bowl.txt",
+    "llm_cache_list": [
+      "default:extract:cb9a6bc12bcf47376930d625e3282c18",
+      "default:extract:dc26f6dadae9aefb30c1a4f74b37c4a4"
+    ],
+    "create_time": 1768570316,
+    "update_time": 1768570465,
+    "_id": "chunk-897dd46c8ae11d3e397eeb097160329c"
+  },
+  "chunk-60d05edf12bbcbcfe2ad1f45882bb879": {
+    "tokens": 43,
+    "content": "Apple Almond Honey Mix\n\nIngredients: apple, almond, honey\n\nPreparation text:\nDice the apple and chop the almond. Add the apple, almond and honey to a bowl. Mix them until everything is evenly coated.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Apple Almond Honey Mix.txt",
+    "file_path": "./recipes/Apple Almond Honey Mix.txt",
+    "llm_cache_list": [
+      "default:extract:928998e19e86d2cf7921fe0c421533de",
+      "default:extract:c5947a1cc4822e4fc29e8ae44db63e56"
+    ],
+    "create_time": 1768570351,
+    "update_time": 1768570505,
+    "_id": "chunk-60d05edf12bbcbcfe2ad1f45882bb879"
+  },
+  "chunk-709789499597c0456123f91ddad32802": {
+    "tokens": 38,
+    "content": "Tomato Olive Vinegar Mix\n\nIngredients: tomato, olive, vinegar, table salt\n\nPreparation text:\nDice the tomato, slice the olive, add vinegar and salt, then mix well.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Tomato Olive Vinegar Mix.txt",
+    "file_path": "./recipes/Tomato Olive Vinegar Mix.txt",
+    "llm_cache_list": [
+      "default:extract:cccc68f109b531fbe7d1579e89319a5a",
+      "default:extract:640eb180e5595c98862800c0a48189bf"
+    ],
+    "create_time": 1768570466,
+    "update_time": 1768570669,
+    "_id": "chunk-709789499597c0456123f91ddad32802"
+  },
+  "chunk-0e9ade55d14f1d8ef9ef79ab0411438a": {
+    "tokens": 36,
+    "content": "Pineapple Coconut Smoothie\n\nIngredients: pineapple, coconut, smoothie\n\nPreparation text:\nCube the pineapple, chop the coconut, add both to the smoothie, and mix thoroughly.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Pineapple Coconut Smoothie.txt",
+    "file_path": "./recipes/Pineapple Coconut Smoothie.txt",
+    "llm_cache_list": [
+      "default:extract:4e15f6a696797a436f0ee018bfe66b20",
+      "default:extract:8939c1e9d7e482185ee8944e98d9fea4"
+    ],
+    "create_time": 1768570506,
+    "update_time": 1768570727,
+    "_id": "chunk-0e9ade55d14f1d8ef9ef79ab0411438a"
+  },
+  "chunk-a546a28cb7c44d6fb6a8bde368932d22": {
+    "tokens": 41,
+    "content": "Strawberry Citrus Juice Blend\n\nIngredients: strawberry, orange, lemon, juice beverage\n\nPreparation text:\nSlice the strawberry, halve the orange and lemon, add everything to the juice beverage, and mix.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Strawberry Citrus Juice Blend.txt",
+    "file_path": "./recipes/Strawberry Citrus Juice Blend.txt",
+    "llm_cache_list": [
+      "default:extract:355f90d496fc4fc957df2ad3f2a15a99",
+      "default:extract:367921bac1eb554b9e436236dd6df6a9"
+    ],
+    "create_time": 1768570670,
+    "update_time": 1768570843,
+    "_id": "chunk-a546a28cb7c44d6fb6a8bde368932d22"
+  },
+  "chunk-1068d392485ddc16204063a5facb4823": {
+    "tokens": 32,
+    "content": "Peach Banana Syrup Bowl\n\nIngredients: peach, banana, syrup\n\nPreparation text:\nSlice the peach and banana, add syrup, and mix to combine.",
+    "chunk_order_index": 0,
+    "full_doc_id": "./recipes/Peach Banana Syrup Bowl.txt",
+    "file_path": "./recipes/Peach Banana Syrup Bowl.txt",
+    "llm_cache_list": [
+      "default:extract:52e36512cbe4e00c10a617d033b94f0e",
+      "default:extract:f61805c7d9e2b2727874711775b0c410"
+    ],
+    "create_time": 1768570728,
+    "update_time": 1768570883,
+    "_id": "chunk-1068d392485ddc16204063a5facb4823"
+  }
+}

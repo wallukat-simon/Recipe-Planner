@@ -1,0 +1,21 @@
+services:
+  recipe-planner:
+    image: h2media-lightrag:latest
+    container_name: recipe-planner
+    working_dir: /app
+    build: .
+    volumes:
+      - ./graph:/app/graph
+      - ./recipes:/app/recipes
+    environment:
+      LLM_BINDING_HOST: "http://host.docker.internal:11434"
+      EMBEDDING_BINDING_HOST: "http://host.docker.internal:11434"
+      LLM_MODEL: "deepseek-r1:8b"
+      EMBEDDING_MODEL: "nomic-embed-text"
+      EMBEDDING_DIM: "768"
+      WORKING_DIR: "./graph"
+      RECIPES_GLOB: "./recipes/*.txt"
+      RESULTS_DIR: "./results"
+      RECIPE_QUERY: "Apple Almond Honey Mix, please."
+  lightrag-demo:
+
